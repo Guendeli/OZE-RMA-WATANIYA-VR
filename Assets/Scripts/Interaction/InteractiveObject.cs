@@ -10,18 +10,9 @@ public class InteractiveObject : MonoBehaviour {
     public UnityEvent onInteraction;
 
 	// Use this for initialization
-    public virtual void OnInteraction()
+    public void OnInteraction()
     {
         onInteraction.Invoke();
     }
 
-    public void DebugInteraction()
-    {
-        // just a fucking test
-        MeshRenderer rend = gameObject.GetComponent<MeshRenderer>();
-        if (rend != null)
-        {
-            rend.enabled = false;
-        }
-    }
 }
