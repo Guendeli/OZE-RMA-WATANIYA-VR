@@ -20,6 +20,7 @@ namespace CurvedUI
         List<GameObject> lastHovered;
 
         Vector2 lastCanvasPos = Vector2.zero;
+
         #region LIFECYCLE
         protected override void Awake()
         {

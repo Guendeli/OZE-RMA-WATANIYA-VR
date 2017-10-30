@@ -25,7 +25,7 @@ public class GazeInput : MonoBehaviour {
             InteractiveObject hitObject = hitInfo.collider.GetComponent<InteractiveObject>();
             if (hitObject != null)
             {
-                if (OVRInput.GetUp(OVRInput.Button.PrimaryTouchpad))
+                if (OVRInput.GetUp(OVRInput.Button.PrimaryTouchpad) ||Input.GetMouseButtonUp(0))
                 {
                     hitObject.OnInteraction();
                 }
