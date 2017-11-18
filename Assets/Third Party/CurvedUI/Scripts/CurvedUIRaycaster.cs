@@ -37,7 +37,7 @@ namespace CurvedUI
 
         protected override void Start()
         {
-            CreateCollider();
+            //CreateCollider();
         }
         #endregion
 
@@ -116,8 +116,6 @@ namespace CurvedUI
                         ExecuteEvents.Execute(eventData.pointerDrag, eventData, ExecuteEvents.beginDragHandler);
                         eventData.dragging = true;
                     }
-
-
                     break;
                 }
                 case CurvedUISettings.CurvedUIController.WORLD_MOUSE:
@@ -206,8 +204,6 @@ namespace CurvedUI
             // Use base class raycast method to finish the raycast if we hit anything
             base.Raycast(eventData, resultAppendList);
         }
-
-
 
         public virtual bool RaycastToCyllinderCanvas(Ray ray3D, out Vector2 o_canvasPos, bool OutputInCanvasSpace = false, int myLayerMask = -1)
         {
@@ -709,7 +705,7 @@ namespace CurvedUI
         public void RebuildCollider()
         {
             cyllinderMidPoint = new Vector3(0, 0, -mySettings.GetCyllinderRadiusInCanvasSpace());
-            CreateCollider();
+            //CreateCollider();
         }
 
         public List<GameObject> GetObjectsUnderPointer()

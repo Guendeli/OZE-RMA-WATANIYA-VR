@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 39a571aba6d05fb4c9133bed68a5775b
+timeCreated: 1510491586
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 29LT Bukra
+  fontNames:
+  - 29LT Bukra
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 35c9feee5ed238643a17fdd37b864288, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

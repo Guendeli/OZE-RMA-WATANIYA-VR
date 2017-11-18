@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 4b8b839ace2c0cc438906cb0da4cb6cf
+timeCreated: 1509723967
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Area.002
+    100002: Area.004
+    100004: Area.006
+    100006: Area.007
+    100008: Area.010
+    100010: Area.011
+    100012: Area.013
+    100014: Area.016
+    100016: Area.017
+    100018: Area.020
+    100020: Area.022
+    100022: Area.023
+    100024: Area.026
+    100026: Area.027
+    100028: Area.043
+    100030: Area.046
+    100032: Area.047
+    100034: Area.060
+    100036: Area.061
+    100038: Area.064
+    100040: Area.065
+    100042: Area.068
+    100044: Area.069
+    100046: Area.072
+    100048: Area.073
+    100050: Area.076
+    100052: Area.077
+    100054: Area.080
+    100056: Area.082
+    100058: Area.083
+    100060: Area.086
+    100062: Area.089
+    100064: Area.092
+    100066: Area.093
+    100068: Area.096
+    100070: Area.097
+    100072: Area.100
+    100074: Area.101
+    100076: Area.104
+    100078: Area.105
+    100080: Area.108
+    100082: Area.109
+    100084: Area.123
+    100086: Area.126
+    100088: Area.127
+    100090: Area.140
+    100092: Area.141
+    100094: Area.144
+    100096: Area.145
+    100098: Area.148
+    100100: Area.149
+    100102: Area.152
+    100104: Area.153
+    100106: Area.156
+    100108: Area.157
+    100110: Area.160
+    100112: Cam Target
+    100114: Camera.000
+    100116: Cube
+    100118: Cube.001
+    100120: DOF Target
+    100122: Floor.000
+    100124: Floor.001
+    100126: //RootNode
+    100128: Lamp Target
+    100130: Lamp.000
+    100132: Lamp.001
+    100134: Lamp.001_MeshPart0
+    100136: Lamp.001_MeshPart1
+    100138: Lamp.001_MeshPart2
+    100140: Plane
+    100142: Plane.001
+    100144: Plane.002
+    100146: Plane.003
+    100148: Plane.004
+    100150: Plane.005
+    400000: Area.002
+    400002: Area.004
+    400004: Area.006
+    400006: Area.007
+    400008: Area.010
+    400010: Area.011
+    400012: Area.013
+    400014: Area.016
+    400016: Area.017
+    400018: Area.020
+    400020: Area.022
+    400022: Area.023
+    400024: Area.026
+    400026: Area.027
+    400028: Area.043
+    400030: Area.046
+    400032: Area.047
+    400034: Area.060
+    400036: Area.061
+    400038: Area.064
+    400040: Area.065
+    400042: Area.068
+    400044: Area.069
+    400046: Area.072
+    400048: Area.073
+    400050: Area.076
+    400052: Area.077
+    400054: Area.080
+    400056: Area.082
+    400058: Area.083
+    400060: Area.086
+    400062: Area.089
+    400064: Area.092
+    400066: Area.093
+    400068: Area.096
+    400070: Area.097
+    400072: Area.100
+    400074: Area.101
+    400076: Area.104
+    400078: Area.105
+    400080: Area.108
+    400082: Area.109
+    400084: Area.123
+    400086: Area.126
+    400088: Area.127
+    400090: Area.140
+    400092: Area.141
+    400094: Area.144
+    400096: Area.145
+    400098: Area.148
+    400100: Area.149
+    400102: Area.152
+    400104: Area.153
+    400106: Area.156
+    400108: Area.157
+    400110: Area.160
+    400112: Cam Target
+    400114: Camera.000
+    400116: Cube
+    400118: Cube.001
+    400120: DOF Target
+    400122: Floor.000
+    400124: Floor.001
+    400126: //RootNode
+    400128: Lamp Target
+    400130: Lamp.000
+    400132: Lamp.001
+    400134: Lamp.001_MeshPart0
+    400136: Lamp.001_MeshPart1
+    400138: Lamp.001_MeshPart2
+    400140: Plane
+    400142: Plane.001
+    400144: Plane.002
+    400146: Plane.003
+    400148: Plane.004
+    400150: Plane.005
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Floor.000
+    2300006: Floor.001
+    2300008: Lamp.001_MeshPart0
+    2300010: Lamp.001_MeshPart1
+    2300012: Lamp.001_MeshPart2
+    2300014: Plane
+    2300016: Plane.001
+    2300018: Plane.002
+    2300020: Plane.003
+    2300022: Plane.004
+    2300024: Plane.005
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Floor.000
+    3300006: Floor.001
+    3300008: Lamp.001_MeshPart0
+    3300010: Lamp.001_MeshPart1
+    3300012: Lamp.001_MeshPart2
+    3300014: Plane
+    3300016: Plane.001
+    3300018: Plane.002
+    3300020: Plane.003
+    3300022: Plane.004
+    3300024: Plane.005
+    4300000: Plane.005
+    4300002: Lamp.001_MeshPart0
+    4300004: Lamp.001_MeshPart1
+    4300006: Lamp.001_MeshPart2
+    4300008: Plane.004
+    4300010: Plane.003
+    4300012: Plane.002
+    4300014: Plane.001
+    4300016: Floor.001
+    4300018: Cube.001
+    4300020: Cube
+    4300022: Plane
+    4300024: Floor.000
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

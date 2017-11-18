@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 28596db0a09b256478ae958c5de603ed
+timeCreated: 1509835300
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: props_voiture_00
+    100004: props_voiture_02
+    100006: props_voiture_03
+    100008: props_voiture_04
+    100010: props_voiture_05
+    100012: props_voiture_06
+    100014: props_voiture_07
+    100016: props_voiture_08
+    100018: props_voiture_09
+    100020: props_voiture_10
+    100022: props_voiture_11
+    100024: props_voiture_12
+    100026: props_voiture_13
+    100028: props_voiture_14
+    100030: props_voiture_15
+    100032: props_voiture_16
+    100034: props_voiture_17
+    100036: props_voiture_18
+    100038: props_voiture_19
+    100040: props_voiture_20
+    100042: props_voiture_21
+    100044: props_voiture_22
+    100046: props_voiture_23
+    100048: props_voiture_24
+    100050: props_voiture_25
+    100052: props_voiture_26
+    100054: props_voiture_27
+    100056: props_voiture_28
+    100058: props_voiture_29
+    100060: props_voiture_30
+    100062: props_voiture_31
+    100064: props_voiture_32
+    400000: //RootNode
+    400002: props_voiture_00
+    400004: props_voiture_02
+    400006: props_voiture_03
+    400008: props_voiture_04
+    400010: props_voiture_05
+    400012: props_voiture_06
+    400014: props_voiture_07
+    400016: props_voiture_08
+    400018: props_voiture_09
+    400020: props_voiture_10
+    400022: props_voiture_11
+    400024: props_voiture_12
+    400026: props_voiture_13
+    400028: props_voiture_14
+    400030: props_voiture_15
+    400032: props_voiture_16
+    400034: props_voiture_17
+    400036: props_voiture_18
+    400038: props_voiture_19
+    400040: props_voiture_20
+    400042: props_voiture_21
+    400044: props_voiture_22
+    400046: props_voiture_23
+    400048: props_voiture_24
+    400050: props_voiture_25
+    400052: props_voiture_26
+    400054: props_voiture_27
+    400056: props_voiture_28
+    400058: props_voiture_29
+    400060: props_voiture_30
+    400062: props_voiture_31
+    400064: props_voiture_32
+    2300000: props_voiture_02
+    2300002: props_voiture_03
+    2300004: props_voiture_04
+    2300006: props_voiture_05
+    2300008: props_voiture_06
+    2300010: props_voiture_07
+    2300012: props_voiture_08
+    2300014: props_voiture_09
+    2300016: props_voiture_10
+    2300018: props_voiture_11
+    2300020: props_voiture_12
+    2300022: props_voiture_13
+    2300024: props_voiture_14
+    2300026: props_voiture_15
+    2300028: props_voiture_16
+    2300030: props_voiture_17
+    2300032: props_voiture_18
+    2300034: props_voiture_19
+    2300036: props_voiture_20
+    2300038: props_voiture_21
+    2300040: props_voiture_22
+    2300042: props_voiture_23
+    2300044: props_voiture_24
+    2300046: props_voiture_25
+    2300048: props_voiture_26
+    2300050: props_voiture_27
+    2300052: props_voiture_28
+    2300054: props_voiture_29
+    2300056: props_voiture_30
+    2300058: props_voiture_31
+    2300060: props_voiture_32
+    3300000: props_voiture_02
+    3300002: props_voiture_03
+    3300004: props_voiture_04
+    3300006: props_voiture_05
+    3300008: props_voiture_06
+    3300010: props_voiture_07
+    3300012: props_voiture_08
+    3300014: props_voiture_09
+    3300016: props_voiture_10
+    3300018: props_voiture_11
+    3300020: props_voiture_12
+    3300022: props_voiture_13
+    3300024: props_voiture_14
+    3300026: props_voiture_15
+    3300028: props_voiture_16
+    3300030: props_voiture_17
+    3300032: props_voiture_18
+    3300034: props_voiture_19
+    3300036: props_voiture_20
+    3300038: props_voiture_21
+    3300040: props_voiture_22
+    3300042: props_voiture_23
+    3300044: props_voiture_24
+    3300046: props_voiture_25
+    3300048: props_voiture_26
+    3300050: props_voiture_27
+    3300052: props_voiture_28
+    3300054: props_voiture_29
+    3300056: props_voiture_30
+    3300058: props_voiture_31
+    3300060: props_voiture_32
+    4300000: props_voiture_02
+    4300002: props_voiture_03
+    4300004: props_voiture_04
+    4300006: props_voiture_05
+    4300008: props_voiture_06
+    4300010: props_voiture_07
+    4300012: props_voiture_08
+    4300014: props_voiture_09
+    4300016: props_voiture_10
+    4300018: props_voiture_11
+    4300020: props_voiture_12
+    4300022: props_voiture_13
+    4300024: props_voiture_14
+    4300026: props_voiture_15
+    4300028: props_voiture_16
+    4300030: props_voiture_17
+    4300032: props_voiture_18
+    4300034: props_voiture_19
+    4300036: props_voiture_20
+    4300038: props_voiture_21
+    4300040: props_voiture_22
+    4300042: props_voiture_23
+    4300044: props_voiture_24
+    4300046: props_voiture_25
+    4300048: props_voiture_26
+    4300050: props_voiture_27
+    4300052: props_voiture_28
+    4300054: props_voiture_29
+    4300056: props_voiture_30
+    4300058: props_voiture_31
+    4300060: props_voiture_32
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
